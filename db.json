@@ -1,16 +1,17 @@
-{  
-  "IdleAccelerator": {
-    "Name": "Idle Accelerator",
-    "Description": "Particle stuff",
-    "Graphics":5,
-    "Gameplay": 2,
-    "Progress": 1
-  },
-  "IdlePins": {
-    "Name": "Idle Pins",
-    "Description": "Pins stuff",
-    "Graphics":4,
-    "Gameplay": 3,
-    "Progress": 3
-  }
-}
+    {
+      "employees":
+      [
+        {
+          "firstName": "John",
+          "lastName": "Doe"
+        },
+        {
+          "firstName": "Anna",
+          "lastName": "Smith"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Jones"
+        }
+      ]
+    }
