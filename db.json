@@ -1,14 +1,13 @@
 {
-	"employees":
+	"games":
 	[{
-			"firstName": "John",
-			"lastName": "Doe"
+			"name": "IA",
+			"description": "Particles game"
+		"type": "Idle"
 		}, {
-			"firstName": "Anna",
-			"lastName": "Smith"
-		}, {
-			"firstName": "Peter",
-			"lastName": "Jones"
+			"name": "IP",
+			"description": "Pins game"
+		"type": "Incremental"
 		}
 	]
 }
