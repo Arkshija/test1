@@ -2,12 +2,12 @@
 	"games":
 	[{
 			"name": "IA",
-			"description": "Particles game"
-		"type": "Idle"
+			"description": "Particles game",
+			"type": "Idle"
 		}, {
 			"name": "IP",
-			"description": "Pins game"
-		"type": "Incremental"
+			"description": "Pins game",
+			"type": "Incremental"
 		}
 	]
 }
