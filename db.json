@@ -1,13 +1,13 @@
 {
-	"games":
+	"test":
 	[{
-			"name": "IA",
-			"description": "Particles game",
-			"type": "Idle"
+			"name": "test1",
+			"description": "Test1 desc",
+			"type": "Test1 type"
 		}, {
-			"name": "IP",
-			"description": "Pins game",
-			"type": "Incremental"
+			"name": "test2",
+			"description": "Test2 desc",
+			"type": "Test2 type"
 		}
 	]
 }
